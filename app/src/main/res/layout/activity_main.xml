@@ -106,6 +106,15 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerInParent="true"
-        android:text="@string/power_by_nestor"/>
+        android:text="@string/power_by_Andrea_Benitez"/>
+
+    <View
+        android:id="@+id/view_linea_vertical"
+        android:layout_width="2dp"
+        android:layout_height="wrap_content"
+        android:background="#000"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="14dp"
+        android:layout_below="@id/text_ciudad_principal"/>
 
 </RelativeLayout>
